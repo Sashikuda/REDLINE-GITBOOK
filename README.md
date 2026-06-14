@@ -1,17 +1,7 @@
-# Accueil - TechNova Support
+For the complete documentation index, see [llms.txt](https://closetware.gitbook.io/instructions/llms.txt). This page is also available as [Markdown](https://closetware.gitbook.io/instructions/welcome/introduction.md).CopyOn this page[👋 Welcome!](/instructions/welcome)# 📃﹒Introduction
 
-Bienvenue sur la documentation officielle du support **TechNova**.
+Welcome to the official closetware™ master support document!
 
-TechNova est votre boutique premium dédiée aux outils de jeu, comptes exclusifs, et bots personnalisés de haute qualité. Ce wiki a été créé pour vous accompagner étape par étape dans la récupération et l'utilisation de vos achats.
+Within this master document, you will find loaders, instructions, software's, and common issues & errors to the Products we provide.
 
-## Notre Boutique Officielle
-
-Tous nos achats sont vérifiés et sécurisés.
-👉 [Visitez la boutique Eldorado officielle de TechNova (BlueShopLV)](https://www.eldorado.gg/fr/users/BlueshopLv/shop/Account)
-
-## Comment utiliser cette documentation ?
-
-Naviguez dans le menu de gauche pour trouver les instructions correspondant au jeu que vous avez acheté. 
-Avant de pouvoir accéder à vos identifiants, vous devrez passer par le processus de **Vérification d'achat** avec notre Bot.
-
-N'hésitez pas à contacter le support si vous rencontrez le moindre problème !
+Last updated 1 year ago
