@@ -1,7 +1,4 @@
----
-icon: 🕐
----
-# Sync Date & Time
+# 🕐Sync Date & Time
 
 ### 
 

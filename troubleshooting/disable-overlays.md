@@ -1,7 +1,4 @@
----
-icon: 📑
----
-# Disable Overlays
+# 📑Disable Overlays
 
 ### 
 

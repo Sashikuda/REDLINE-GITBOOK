@@ -1,7 +1,4 @@
----
-icon: ⤵️
----
-# Downgrading Windows Versions (24H2)
+# ⤵️Downgrading Windows Versions (24H2)
 
 Some of our products don't work with the most recent windows 11 version (24h2), this guide will show you how to downgrade successfully.
 

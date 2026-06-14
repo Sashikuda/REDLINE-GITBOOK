@@ -1,7 +1,4 @@
----
-icon: 👨‍💻
----
-# Visual C++ Runtimes
+# 👨‍💻Visual C++ Runtimes
 
 To download all the latest Visual C++ Runtimes:
 

@@ -1,7 +1,4 @@
----
-icon: 💻
----
-# Disconnect \[FN\]
+# 💻Disconnect \[FN\]
 
 *   **DirectX Runtime:** Install from the [Microsoft website](https://www.microsoft.com/en-us/download/details.aspx?id=35).
     

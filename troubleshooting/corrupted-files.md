@@ -1,7 +1,4 @@
----
-icon: 💔
----
-# Corrupted Files
+# 💔Corrupted Files
 
 #### 
 

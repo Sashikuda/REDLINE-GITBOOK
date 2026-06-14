@@ -1,7 +1,4 @@
----
-icon: 🔐
----
-# Disable Core Isolation
+# 🔐Disable Core Isolation
 
 ### 
 

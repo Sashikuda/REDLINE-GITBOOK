@@ -1,7 +1,4 @@
----
-icon: 💻
----
-# Lethal Lite & Full \[R6S\]
+# 💻Lethal Lite & Full \[R6S\]
 
 System Requirements
 

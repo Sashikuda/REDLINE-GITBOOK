@@ -1,7 +1,4 @@
----
-icon: 🪟
----
-# Checking WinVer Versions
+# 🪟Checking WinVer Versions
 
 ### 
 

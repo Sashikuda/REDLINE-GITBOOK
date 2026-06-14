@@ -1,7 +1,4 @@
----
-icon: 💻
----
-# Ring-1 Basic & Full \[R6S\]
+# 💻Ring-1 Basic & Full \[R6S\]
 
 System Requirements
 

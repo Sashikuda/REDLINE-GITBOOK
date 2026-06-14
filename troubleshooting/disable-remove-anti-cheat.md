@@ -1,7 +1,4 @@
----
-icon: 👀
----
-# Disable/Remove Anti-Cheat
+# 👀Disable/Remove Anti-Cheat
 
 ### 
 

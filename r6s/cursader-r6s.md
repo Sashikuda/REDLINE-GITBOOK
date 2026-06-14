@@ -1,7 +1,4 @@
----
-icon: 💻
----
-# Cursader \[R6S\]
+# 💻Cursader \[R6S\]
 
 *   **Download the Loader:** Download the Loader from [this link](https://uniqueloader.com/r6s/) and extract it into a separate folder.
     
