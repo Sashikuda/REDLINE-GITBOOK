@@ -1,7 +1,7 @@
 # Table of contents
 
-* [🛒 Website](https://lethalcheats.net)
-* [💬 Support Discord](https://discord.gg/closetware)
+* [🛒 Website](https://red-line.mysellauth.com/)
+* [💬 Support Discord](https://discord.com/invite/yRBznhEjZY)
 
 ## 👋 Welcome!
 * [📃 Introduction](README.md)
