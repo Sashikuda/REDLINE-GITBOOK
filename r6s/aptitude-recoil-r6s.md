@@ -1,4 +1,4 @@
-# 💻Aptitude Recoil \[R6S\]
+# 🟡﹒Aptitude Recoil [R6S]
 
 Be sure Discord Overlay Settings are as follows (copy it exactly!):
 

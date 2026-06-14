@@ -1,4 +1,4 @@
-# 🖇️VPN Bypassing
+# 🌐﹒VPN Bypassing
 
 Sometimes users have issues relating to not being able to download certain loaders because of their ISP provider, you can get past this by using a VPN below!
 

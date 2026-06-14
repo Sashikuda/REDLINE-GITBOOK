@@ -1,4 +1,4 @@
-# ❌Ban Information/HWID Bans
+# ❔﹒Ban Information/HWID Bans
 
 This is a developing page, things will change overtime.
 

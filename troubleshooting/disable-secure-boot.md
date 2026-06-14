@@ -1,4 +1,4 @@
-# 📀Disable Secure Boot
+# 🛡️﹒Disable Secure Boot
 
 #### 
 

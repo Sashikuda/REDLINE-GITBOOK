@@ -1,4 +1,7 @@
-# Table of contents
+const fs = require('fs');
+const path = require('path');
+
+const exactSummary = `# Table of contents
 
 ## 👋 Welcome!
 * [📃﹒Introduction](README.md)
@@ -34,3 +37,30 @@
 * [🛡️﹒Disable Overlays](troubleshooting/disable-overlays.md)
 * [🛡️﹒Disable Secure Boot](troubleshooting/disable-secure-boot.md)
 * [🛡️﹒Disable Control Flow Guard (CFG)](troubleshooting/disable-control-flow-guard-cfg.md)
+`;
+
+fs.writeFileSync('SUMMARY.md', exactSummary, 'utf8');
+
+// Now we need to update the heading inside each Markdown file to match exactly
+const links = exactSummary.match(/\[(.*?)\]\((.*?)\)/g);
+if (links) {
+    for (let link of links) {
+        const match = link.match(/\[(.*?)\]\((.*?)\)/);
+        if (match) {
+            let title = match[1];
+            const file = match[2];
+            const fullPath = path.join(__dirname, file);
+            
+            if (fs.existsSync(fullPath)) {
+                let content = fs.readFileSync(fullPath, 'utf8');
+                
+                // Replace the first heading with the exact title from the link
+                content = content.replace(/^#\s*.*$/m, '# ' + title);
+                
+                fs.writeFileSync(fullPath, content, 'utf8');
+            }
+        }
+    }
+}
+
+console.log('Fixed SUMMARY.md and all page headings with the accurate manual emojis.');
