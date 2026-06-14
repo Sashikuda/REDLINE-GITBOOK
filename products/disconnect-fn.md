@@ -1,44 +1,69 @@
-For the complete documentation index, see [llms.txt](https://closetware.gitbook.io/instructions/llms.txt). This page is also available as [Markdown](https://closetware.gitbook.io/instructions/products/disconnect-fn.md).CopyOn this page[📦 PRODUCTS](/instructions/products)# 💻Disconnect [FN]
+For the complete documentation index, see [llms.txt](https://closetware.gitbook.io/instructions/llms.txt). This page is also available as [Markdown](https://closetware.gitbook.io/instructions/products/disconnect-fn.md).
 
-DirectX Runtime: Install from the [Microsoft website](https://www.microsoft.com/en-us/download/details.aspx?id=35).
+Copy
 
-Visual-C-Runtimes: Download, extract, and run install_all.bat from [this link](https://lewislitt.life/Store/Downloads/Visual-C-Runtimes.zip).
+On this page
 
-Disable any antivirus software and Windows Real-Time Protection.
+1.  [📦 PRODUCTS](/instructions/products)
 
-[](#loader-pre-setup-requirements)Loader Pre-Setup RequirementsLaunch the loader and login with an existing account or register using a license.
+# 💻Disconnect \[FN\]
 
-Go to the products page, select your product, and click Inject.
+*   **DirectX Runtime:** Install from the [Microsoft website](https://www.microsoft.com/en-us/download/details.aspx?id=35).
+    
+*   **Visual-C-Runtimes:** Download, extract, and run `install_all.bat` from [this link](https://lewislitt.life/Store/Downloads/Visual-C-Runtimes.zip).
+    
+*   Disable any antivirus software and Windows Real-Time Protection.
+    
 
-Visit [this link](https://lewislitt.life/Store/install.html), enter a key, and download the custom loader build.
+#### 
 
-[](#loader-login-and-injection-steps)Loader Login & Injection StepsIf prompted to "Please Launch SteelSeriesGG," download and run it from [here](https://steelseries.com/gg/moments/download).
+[](#loader-pre-setup-requirements)
 
-SteelSeries GG Requirement
+Loader Pre-Setup Requirements
 
-Ensure the loader is executed only once per login session. Multiple attempts can invalidate sessions.
+1.  Launch the loader and login with an existing account or register using a license.
+    
+2.  Go to the products page, select your product, and click **Inject**.
+    
+3.  Visit [this link](https://lewislitt.life/Store/install.html), enter a key, and download the custom loader build.
+    
 
-Re-login and re-inject if initial attempts fail.
+#### 
 
-Loader Usage Tips
+[](#loader-login-and-injection-steps)
 
-Shaking ESP: Disable anti-aliasing or NVIDIA DLSS in the game settings.
+Loader Login & Injection Steps
 
-Lagging ESP: Limit FPS and reduce graphic settings.
+*   If prompted to "Please Launch SteelSeriesGG," download and run it from [here](https://steelseries.com/gg/moments/download).
+    
 
-Rust: Options -> Screen -> FPS Limit
+**SteelSeries GG Requirement**
 
-Fortnite: Settings -> Frame Rate Limit
+*   Ensure the loader is executed only once per login session. Multiple attempts can invalidate sessions.
+    
+*   Re-login and re-inject if initial attempts fail.
+    
 
-ESP Issues
+**Loader Usage Tips**
 
-Install [TunnelBear](https://www.tunnelbear.com/).
+*   **Shaking ESP:** Disable anti-aliasing or NVIDIA DLSS in the game settings.
+    
+*   **Lagging ESP:** Limit FPS and reduce graphic settings.
+    
+    *   **Rust:** Options -> Screen -> FPS Limit
+        
+    *   **Fortnite:** Settings -> Frame Rate Limit
+        
+    
 
-Activate TunnelBear before retrying.
+**ESP Issues**
 
-Loader Not Loading or Asking for a VPN
+1.  Install [TunnelBear](https://www.tunnelbear.com/).
+    
+2.  Activate TunnelBear before retrying.
+    
 
-
+**Loader Not Loading or Asking for a VPN**
 
 These instructions are directly from the provider and will be updated periodically; however, they may not always be current.
 

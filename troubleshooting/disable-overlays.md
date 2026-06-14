@@ -1,37 +1,53 @@
-For the complete documentation index, see [llms.txt](https://closetware.gitbook.io/instructions/llms.txt). This page is also available as [Markdown](https://closetware.gitbook.io/instructions/troubleshooting/disable-overlays.md).CopyOn this page[🛑Troubleshooting](/instructions/troubleshooting)# 📑Disable Overlays
+For the complete documentation index, see [llms.txt](https://closetware.gitbook.io/instructions/llms.txt). This page is also available as [Markdown](https://closetware.gitbook.io/instructions/troubleshooting/disable-overlays.md).
 
-### [](#disabling-overlay-and-recording-features)Disabling Overlay and Recording Features
+Copy
 
-Discord Overlay
+On this page
 
-Open Discord and go to User Settings.
+1.  [🛑Troubleshooting](/instructions/troubleshooting)
 
-Scroll down and select Game Overlay.
+# 📑Disable Overlays
 
-Toggle off the Enable in-game overlay option.
+### 
 
-Overwolf Overlay
+[](#disabling-overlay-and-recording-features)
 
-Open Overwolf.
+Disabling Overlay and Recording Features
 
-Go to Settings > Overlay & Hotkeys.
+**Discord Overlay**
 
-Toggle off the overlay for specific games or completely disable it.
+1.  Open Discord and go to **User Settings**.
+    
+2.  Scroll down and select **Game Overlay**.
+    
+3.  Toggle off the **Enable in-game overlay** option.
+    
 
-Medal Overlay
+**Overwolf Overlay**
 
-Launch Medal and go to Settings.
+1.  Open Overwolf.
+    
+2.  Go to **Settings** > **Overlay & Hotkeys**.
+    
+3.  Toggle off the overlay for specific games or completely disable it.
+    
 
-Look for the Overlays section.
+**Medal Overlay**
 
-Turn off the overlay by toggling the switch off.
+1.  Launch Medal and go to **Settings**.
+    
+2.  Look for the **Overlays** section.
+    
+3.  Turn off the overlay by toggling the switch off.
+    
 
-SteelSeries Moments
+**SteelSeries Moments**
 
-Open SteelSeries GG.
-
-Go to Moments from the left sidebar.
-
-Toggle off the Enable Moments option.
+1.  Open SteelSeries GG.
+    
+2.  Go to **Moments** from the left sidebar.
+    
+3.  Toggle off the **Enable Moments** option.
+    
 
 Last updated 1 year ago
