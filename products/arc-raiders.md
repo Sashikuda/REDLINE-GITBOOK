@@ -4,7 +4,7 @@ Félicitations pour votre achat d'un compte ARC RAIDERS ! Veuillez suivre scrupu
 
 ## Obtenir les identifiants
 
-Une fois votre achat vérifié par le bot, les mots de passe et identifiants pour ARC RAIDERS se trouvent dans le salon Discord dédié :
+Une fois votre achat vérifié, les mots de passe et identifiants pour ARC RAIDERS se trouvent dans le salon Discord dédié :
 👉 **<#1494010451099516958>**
 
 ## Instructions de connexion (TRÈS IMPORTANT)
