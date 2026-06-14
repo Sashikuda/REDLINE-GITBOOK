@@ -1,4 +1,7 @@
-# 🧑Disable Control Flow Guard (CFG)
+---
+icon: 🧑
+---
+# Disable Control Flow Guard (CFG)
 
 #### 
 

@@ -1,4 +1,7 @@
-# 🐛Disable Anti-Virus (dControl)
+---
+icon: 🐛
+---
+# Disable Anti-Virus (dControl)
 
 ### 
 

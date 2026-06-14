@@ -1,4 +1,7 @@
-# 📀Disable Secure Boot
+---
+icon: 📀
+---
+# Disable Secure Boot
 
 #### 
 

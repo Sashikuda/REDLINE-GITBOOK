@@ -1,4 +1,7 @@
-# 💻Calamari \[R6S\]
+---
+icon: 💻
+---
+# Calamari \[R6S\]
 
 *   **Download the Loader:** Download the Loader from [this link](https://user.mempatch.com/) and extract it into a separate folder.
     
