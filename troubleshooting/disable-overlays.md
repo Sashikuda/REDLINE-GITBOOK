@@ -1,11 +1,3 @@
-For the complete documentation index, see [llms.txt](https://closetware.gitbook.io/instructions/llms.txt). This page is also available as [Markdown](https://closetware.gitbook.io/instructions/troubleshooting/disable-overlays.md).
-
-Copy
-
-On this page
-
-1.  [🛑Troubleshooting](/instructions/troubleshooting)
-
 # 📑Disable Overlays
 
 ### 
@@ -48,6 +40,3 @@ Disabling Overlay and Recording Features
 2.  Go to **Moments** from the left sidebar.
     
 3.  Toggle off the **Enable Moments** option.
-    
-
-Last updated 1 year ago

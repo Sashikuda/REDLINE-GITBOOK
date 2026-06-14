@@ -1,11 +1,3 @@
-For the complete documentation index, see [llms.txt](https://closetware.gitbook.io/instructions/llms.txt). This page is also available as [Markdown](https://closetware.gitbook.io/instructions/troubleshooting/corrupted-files.md).
-
-Copy
-
-On this page
-
-1.  [🛑Troubleshooting](/instructions/troubleshooting)
-
 # 💔Corrupted Files
 
 #### 
@@ -36,5 +28,3 @@ How to Fix Corrupted Files Using CMD in Windows
     
 
 6
-
-Last updated 1 year ago

@@ -1,11 +1,3 @@
-For the complete documentation index, see [llms.txt](https://closetware.gitbook.io/instructions/llms.txt). This page is also available as [Markdown](https://closetware.gitbook.io/instructions/r6s/aptitude-recoil-r6s.md).
-
-Copy
-
-On this page
-
-1.  [📦Rainbow Six Siege \[R6X\]](/instructions/r6s)
-
 # 💻Aptitude Recoil \[R6S\]
 
 Be sure Discord Overlay Settings are as follows (copy it exactly!):
@@ -35,5 +27,3 @@ Visit aptitude.pub and enter the account information provided to you in your ema
 Please keep in mind that sometimes Aptitude will ask you to create a security question or possibly add an email to your account, always remember and retain access to all of the information you provide.
 
 _**We don't have the power to reset anything security-related on your Aptitude account!**_
-
-Last updated 7 months ago

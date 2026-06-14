@@ -1,11 +1,3 @@
-For the complete documentation index, see [llms.txt](https://closetware.gitbook.io/instructions/llms.txt). This page is also available as [Markdown](https://closetware.gitbook.io/instructions/r6s/ban-information-hwid-bans.md).
-
-Copy
-
-On this page
-
-1.  [📦Rainbow Six Siege \[R6X\]](/instructions/r6s)
-
 # ❌Ban Information/HWID Bans
 
 This is a developing page, things will change overtime.
@@ -26,5 +18,3 @@ Copy
 To determine if you've been HWID banned following a recent ban, the simplest method is to create a new, free Ubisoft account and abuse the free-to-play feature added in Rainbow Six Siege X. By doing so, you can test if the new account is affected in any way. If the account operates without issues, it's likely your previous ban isn't tied to your hardware ID.
 
 Ubisoft has recently implemented a stricter enforcement system known as **affiliation bans**, targeting players who consistently team with or play alongside cheaters. Reports suggest that if an account participates in roughly 20–30 matches with confirmed cheaters forming a chain of association—it can be flagged for review and potentially included in a future **ban wave**. These ban waves occur periodically, at Ubisoft’s discretion, as part of their ongoing effort to discourage repeated boosting/stacking with cheaters.
-
-Last updated 8 months ago

@@ -1,11 +1,3 @@
-For the complete documentation index, see [llms.txt](https://closetware.gitbook.io/instructions/llms.txt). This page is also available as [Markdown](https://closetware.gitbook.io/instructions/troubleshooting/sync-date-and-time.md).
-
-Copy
-
-On this page
-
-1.  [🛑Troubleshooting](/instructions/troubleshooting)
-
 # 🕐Sync Date & Time
 
 ### 
@@ -31,5 +23,3 @@ To sync your Windows PC's clock with an Internet time server:
     
 
 Your computer will now synchronize its clock with the default time server.
-
-Last updated 1 year ago

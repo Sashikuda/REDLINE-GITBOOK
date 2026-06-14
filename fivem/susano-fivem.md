@@ -1,11 +1,3 @@
-For the complete documentation index, see [llms.txt](https://closetware.gitbook.io/instructions/llms.txt). This page is also available as [Markdown](https://closetware.gitbook.io/instructions/fivem/susano-fivem.md).
-
-Copy
-
-On this page
-
-1.  [📦FIVEM \[FIVEM\]](/instructions/fivem)
-
 # 💻Susano \[FIVEM\]
 
 *   **Register Via Susano Website Using Discord:** Log into [https://susano.re/dashboard/](https://susano.re/dashboard/) using a secure discord account, enter your key in the settings tab and input your key, reload the page and press "download", your unique loader will be downloaded!
@@ -17,5 +9,3 @@ On this page
     
 
 This product requires [Visual C++ Runtimes](https://closetware.gitbook.io/instructions/troubleshooting/visual-c++-runtimes) to be downloaded.
-
-Last updated 6 months ago

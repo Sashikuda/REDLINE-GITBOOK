@@ -1,11 +1,3 @@
-For the complete documentation index, see [llms.txt](https://closetware.gitbook.io/instructions/llms.txt). This page is also available as [Markdown](https://closetware.gitbook.io/instructions/troubleshooting/sharing-qbs.md).
-
-Copy
-
-On this page
-
-1.  [🛑Troubleshooting](/instructions/troubleshooting)
-
 # 📁Sharing QB's
 
 #### 
@@ -43,5 +35,3 @@ This guide will help you successfully find the `rainbowsix.exe` file in both the
 Once you have the file, upload it to a file host [https://limewire.com/](https://limewire.com/), then send it to one of our support members!
 
 ![Image sharing how to get the shareable link of your QB file for our support member.](https://closetware.gitbook.io/instructions/~gitbook/image?url=https%3A%2F%2F1405695352-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FevyCKDKAd1b5TV2k3xZT%252Fuploads%252FN2VrbXtkOijWVIkwZQgL%252Fimage.png%3Falt%3Dmedia%26token%3D2e43c56b-b4ce-4c81-adb9-29a0099a5454&width=768&dpr=3&quality=100&sign=dfd58b22&sv=2)
-
-Last updated 12 months ago

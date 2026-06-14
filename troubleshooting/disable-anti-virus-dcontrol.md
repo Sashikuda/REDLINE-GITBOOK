@@ -1,11 +1,3 @@
-For the complete documentation index, see [llms.txt](https://closetware.gitbook.io/instructions/llms.txt). This page is also available as [Markdown](https://closetware.gitbook.io/instructions/troubleshooting/disable-anti-virus-dcontrol.md).
-
-Copy
-
-On this page
-
-1.  [🛑Troubleshooting](/instructions/troubleshooting)
-
 # 🐛Disable Anti-Virus (dControl)
 
 ### 
@@ -36,5 +28,3 @@ How do I block Windows Anti-Virus?
 To easily toggle the default Windows antivirus on or off, we highly recommend using [dControl](https://drive.usercontent.google.com/download?id=1CcxKux1m5IxtSFCMUhuCCLihrW8WDUHk&export=download&authuser=0).
 
 **The Password for dControl is** `**Sordum**`
-
-Last updated 9 months ago

@@ -1,11 +1,3 @@
-For the complete documentation index, see [llms.txt](https://closetware.gitbook.io/instructions/llms.txt). This page is also available as [Markdown](https://closetware.gitbook.io/instructions/r6s/cursader-r6s.md).
-
-Copy
-
-On this page
-
-1.  [📦Rainbow Six Siege \[R6X\]](/instructions/r6s)
-
 # 💻Cursader \[R6S\]
 
 *   **Download the Loader:** Download the Loader from [this link](https://uniqueloader.com/r6s/) and extract it into a separate folder.
@@ -21,5 +13,3 @@ On this page
     
 
 This product requires [Visual C++ Runtimes](https://closetware.gitbook.io/instructions/troubleshooting/visual-c++-runtimes) to be downloaded.
-
-Last updated 10 months ago

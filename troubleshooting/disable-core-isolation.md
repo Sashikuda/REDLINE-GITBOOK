@@ -1,11 +1,3 @@
-For the complete documentation index, see [llms.txt](https://closetware.gitbook.io/instructions/llms.txt). This page is also available as [Markdown](https://closetware.gitbook.io/instructions/troubleshooting/disable-core-isolation.md).
-
-Copy
-
-On this page
-
-1.  [🛑Troubleshooting](/instructions/troubleshooting)
-
 # 🔐Disable Core Isolation
 
 ### 
@@ -29,6 +21,3 @@ How do I disable core Isolation?
 7.  **Disable Memory Integrity**: Toggle the switch to turn off "Memory integrity".
     
 8.  **Restart Your Computer**: For changes to take effect, restart your computer.
-    
-
-Last updated 1 year ago

@@ -1,11 +1,3 @@
-For the complete documentation index, see [llms.txt](https://closetware.gitbook.io/instructions/llms.txt). This page is also available as [Markdown](https://closetware.gitbook.io/instructions/r6s/lethal-lite-and-full-r6s.md).
-
-Copy
-
-On this page
-
-1.  [📦Rainbow Six Siege \[R6X\]](/instructions/r6s)
-
 # 💻Lethal Lite & Full \[R6S\]
 
 System Requirements
@@ -73,5 +65,3 @@ Additional Support
     
 
 This product requires [Visual C++ Runtimes](https://closetware.gitbook.io/instructions/troubleshooting/visual-c++-runtimes) to be downloaded.
-
-Last updated 8 months ago

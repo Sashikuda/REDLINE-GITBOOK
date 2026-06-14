@@ -1,11 +1,3 @@
-For the complete documentation index, see [llms.txt](https://closetware.gitbook.io/instructions/llms.txt). This page is also available as [Markdown](https://closetware.gitbook.io/instructions/troubleshooting/virtualization-and-hyper-v.md).
-
-Copy
-
-On this page
-
-1.  [🛑Troubleshooting](/instructions/troubleshooting)
-
 # 💾Virtualization & Hyper-V
 
 #### 
@@ -64,6 +56,3 @@ To disable Hyper-V using PowerShell:
 1.  Open **PowerShell** as an administrator.
     
 2.  Execute the following command:
-    
-
-Last updated 1 year ago

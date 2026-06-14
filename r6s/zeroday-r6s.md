@@ -1,11 +1,3 @@
-For the complete documentation index, see [llms.txt](https://closetware.gitbook.io/instructions/llms.txt). This page is also available as [Markdown](https://closetware.gitbook.io/instructions/r6s/zeroday-r6s.md).
-
-Copy
-
-On this page
-
-1.  [📦Rainbow Six Siege \[R6X\]](/instructions/r6s)
-
 # 💻Zeroday \[R6S\]
 
 Be sure Discord Overlay Settings are as follows (copy it exactly!):
@@ -45,6 +37,3 @@ Visit [myloader.cc](https://myloader.cc/) and enter your License Key to download
 *   Alt Tabbing a lot? This can cause issues with the overlay, which will stop displaying the ESP on Fullscreen. Use Borderless/Windowed instead.
     
 *   Refreshed Discord/closed it? Discord is required to remain 24/7, without refresh or anything. This is due to the product using Discord Overlay. Restart game and reinject if so.
-    
-
-Last updated 1 year ago

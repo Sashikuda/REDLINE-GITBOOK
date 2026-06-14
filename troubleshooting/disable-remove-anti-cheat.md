@@ -1,11 +1,3 @@
-For the complete documentation index, see [llms.txt](https://closetware.gitbook.io/instructions/llms.txt). This page is also available as [Markdown](https://closetware.gitbook.io/instructions/troubleshooting/disable-remove-anti-cheat.md).
-
-Copy
-
-On this page
-
-1.  [🛑Troubleshooting](/instructions/troubleshooting)
-
 # 👀Disable/Remove Anti-Cheat
 
 ### 
@@ -88,6 +80,3 @@ Uninstall PunkBuster Anti-Cheat
 5.  Follow the prompts to complete the uninstallation.
     
 6.  Once the process is complete, restart your computer to ensure all components are removed.
-    
-
-Last updated 1 year ago

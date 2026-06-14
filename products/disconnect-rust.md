@@ -1,11 +1,3 @@
-For the complete documentation index, see [llms.txt](https://closetware.gitbook.io/instructions/llms.txt). This page is also available as [Markdown](https://closetware.gitbook.io/instructions/products/disconnect-rust.md).
-
-Copy
-
-On this page
-
-1.  [📦 PRODUCTS](/instructions/products)
-
 # 💻Disconnect \[RUST\]
 
 *   **DirectX Runtime:** Install from the [Microsoft website](https://www.microsoft.com/en-us/download/details.aspx?id=35).
@@ -66,5 +58,3 @@ Loader Login & Injection Steps
 **Loader Not Loading or Asking for a VPN**
 
 These instructions are directly from the provider and will be updated periodically; however, they may not always be current.
-
-Last updated 1 year ago

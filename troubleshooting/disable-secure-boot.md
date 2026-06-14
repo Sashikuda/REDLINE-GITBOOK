@@ -1,11 +1,3 @@
-For the complete documentation index, see [llms.txt](https://closetware.gitbook.io/instructions/llms.txt). This page is also available as [Markdown](https://closetware.gitbook.io/instructions/troubleshooting/disable-secure-boot.md).
-
-Copy
-
-On this page
-
-1.  [🛑Troubleshooting](/instructions/troubleshooting)
-
 # 📀Disable Secure Boot
 
 #### 
@@ -32,6 +24,3 @@ To disable Secure Boot on your system, follow these steps:
 6.  Your computer will restart with Secure Boot disabled.
     
 7.  > **Note:** The instructions might slightly vary depending on the manufacturer. Always consult your motherboard manual or support documentation for specific guidance.
-    
-
-Last updated 1 year ago

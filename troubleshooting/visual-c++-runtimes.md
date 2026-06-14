@@ -1,11 +1,3 @@
-For the complete documentation index, see [llms.txt](https://closetware.gitbook.io/instructions/llms.txt). This page is also available as [Markdown](https://closetware.gitbook.io/instructions/troubleshooting/visual-c++-runtimes.md).
-
-Copy
-
-On this page
-
-1.  [🛑Troubleshooting](/instructions/troubleshooting)
-
 # 👨‍💻Visual C++ Runtimes
 
 To download all the latest Visual C++ Runtimes:
@@ -20,5 +12,3 @@ To download all the latest Visual C++ Runtimes:
 This package includes all the Visual C++ Redistributables released by Microsoft, bundled for convenience.
 
 Visual C++ Runtimes are required for all products that use cheat loaders to run correctly on your machine, These are directly provided by Microsoft for developers and users.
-
-Last updated 1 year ago

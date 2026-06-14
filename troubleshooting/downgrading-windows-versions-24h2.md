@@ -1,11 +1,3 @@
-For the complete documentation index, see [llms.txt](https://closetware.gitbook.io/instructions/llms.txt). This page is also available as [Markdown](https://closetware.gitbook.io/instructions/troubleshooting/downgrading-windows-versions-24h2.md).
-
-Copy
-
-On this page
-
-1.  [🛑Troubleshooting](/instructions/troubleshooting)
-
 # ⤵️Downgrading Windows Versions (24H2)
 
 Some of our products don't work with the most recent windows 11 version (24h2), this guide will show you how to downgrade successfully.
@@ -78,7 +70,3 @@ Important Notes
     *   You may need to reinstall drivers and updates after downgrading.
         
     *   Verify that your device is compatible with the Windows 11 23H2 version.
-        
-    
-
-Last updated 9 months ago

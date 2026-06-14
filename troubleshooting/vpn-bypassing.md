@@ -1,11 +1,3 @@
-For the complete documentation index, see [llms.txt](https://closetware.gitbook.io/instructions/llms.txt). This page is also available as [Markdown](https://closetware.gitbook.io/instructions/troubleshooting/vpn-bypassing.md).
-
-Copy
-
-On this page
-
-1.  [🛑Troubleshooting](/instructions/troubleshooting)
-
 # 🖇️VPN Bypassing
 
 Sometimes users have issues relating to not being able to download certain loaders because of their ISP provider, you can get past this by using a VPN below!
@@ -33,5 +25,3 @@ How to Download Windscribe VPN
 Now you're all set to explore the internet securely with Windscribe VPN!
 
 If you're unable to access VPN websites, we'll be able to provide you with a loader through [Discord](https://discord.closetware.store/) using our ticketing system.
-
-Last updated 9 months ago
