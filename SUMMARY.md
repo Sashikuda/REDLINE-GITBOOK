@@ -3,7 +3,7 @@
 ## 👋 Welcome!
 * [📃 Introduction](README.md)
 
-## R6S
+## 📦 R6S
 * [❌ Ban Information/HWID Bans](r6s/ban-information-hwid-bans.md)
 * [💻 Lethal Lite & Full [R6S]](r6s/lethal-lite-and-full-r6s.md)
 * [💻 Zeroday [R6S]](r6s/zeroday-r6s.md)
@@ -12,14 +12,14 @@
 * [💻 Ring-1 Basic & Full [R6S]](r6s/ring-1-basic-and-full-r6s.md)
 * [💻 Aptitude Recoil [R6S]](r6s/aptitude-recoil-r6s.md)
 
-## FIVEM
+## 📦 FIVEM
 * [💻 Susano [FIVEM]](fivem/susano-fivem.md)
 
-## Products
+## 📦 Products
 * [💻 Disconnect [FN]](products/disconnect-fn.md)
 * [💻 Disconnect [RUST]](products/disconnect-rust.md)
 
-## Troubleshooting
+## 🛑 Troubleshooting
 * [🪟 Checking WinVer Versions](troubleshooting/checking-winver-versions.md)
 * [🖇️ VPN Bypassing](troubleshooting/vpn-bypassing.md)
 * [📁 Sharing QB's](troubleshooting/sharing-qbs.md)
