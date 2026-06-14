@@ -1,5 +1,8 @@
 # Table of contents
 
+* [🛒 Website](https://lethalcheats.net)
+* [💬 Support Discord](https://discord.gg/closetware)
+
 ## 👋 Welcome!
 * [📃 Introduction](README.md)
 
